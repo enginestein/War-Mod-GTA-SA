@@ -1,0 +1,15 @@
+AIRSOP ~r~You sould be on an open area!
+ASTBOX1 Use ~k~~PED_SNIPER_ZOOM_IN~ and ~k~~PED_SNIPER_ZOOM_OUT~ to select radius.~N~~k~~PED_SPRINT~ Request service~N~~k~~VEHICLE_ENTER_EXIT~ Back
+ASTBOX2 Use ~k~~VEHICLE_LOOKLEFT~ and ~k~~VEHICLE_LOOKRIGHT~ to select radius.~N~~k~~VEHICLE_HANDBRAKE~ Request service~N~~k~~VEHICLE_ENTER_EXIT~ Back
+ASTR1 Radius: 12m. Price: $6000
+ASTR2 Radius: 24m. Price: $7200
+ASTR3 Radius: 36m. Price: $8400
+ASTR4 Radius: 48m. Price: $9600
+ASTR5 Radius: 60m. Price: $10800
+ASTR6 Radius: 72m. Price: $12000
+ASTR7 Radius: 84m. Price: $13200
+ASTR8 Radius: 96m. Price: $14400
+ASTR9 Radius: 108m. Price: $15600
+ASTR10 Radius: 120m. Price: $16800
+ASTR11 Radius: 132m. Price: $18000
+ASTR12 Radius: 144m. Price: $19200
